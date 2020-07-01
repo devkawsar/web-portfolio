@@ -29,7 +29,7 @@ p{
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: left;
 }
 section{
     height: 500px;
